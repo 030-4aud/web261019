@@ -6,6 +6,11 @@
      margin: 0 auto 24px;
  }
 
+ .top h1 {
+     text-align: left;
+     margin: 0;
+ }
+
  nav ul {
      display: flex;
      gap: 8px;
@@ -79,15 +84,15 @@
      animation-delay: 0.1s;
  }
 
-  .card:nth-child(3) {
+ .card:nth-child(3) {
      animation-delay: 0.2s;
  }
 
-  .card:nth-child(4) {
+ .card:nth-child(4) {
      animation-delay: 0.3s;
  }
 
-  .card:nth-child(5) {
+ .card:nth-child(5) {
      animation-delay: 0.4s;
  }
 
